@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "geeklauncher",
   "version": "1.7.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "GeekLauncher",
+  "description": "Launcher pour le tuto",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et GeekCorner",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/geekcornerght/GeekLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/geekcornerght/GeekLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/GeekCornerGHT/GeekLauncher.git"
   }
 }
